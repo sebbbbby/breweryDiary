@@ -13,7 +13,7 @@ If you have an idea that really interests you but which seems too big and compli
 
 ## Running Project
 
-- There is a requirement.txt file to get you started. There is also    some data still located in the file during testing. This was intended    to stay in the file as a way to show the product without the need to    go through the entire process.
+- There is a requirement.txt file to get you started. There is also    some data still located in the file during testing. This was intended    to stay in the file as a way to show the product without the need to   go through the entire runtime process.
 
  - Due to the nature of the project the utilization 'send email'    function, will not work without email and password of a sender.
 
